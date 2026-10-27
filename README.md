@@ -8,7 +8,11 @@ The guided installation prepares a temporary USB bridge, installs the C5 radio f
 
 ## Status
 
-Development preview. A complete installation and interrupted-flash recovery must still be validated on a physical Cerberus before production batch use.
+**[Cerberus Sentinel v1.0.0](https://github.com/463N7/Cerberus-Flasher/releases/tag/v1.0.0)** is the first production release, approved by the owner after successful testing of the existing feature build on 2026-10-27. The matched S3, C5, and bridge images are versioned 1.0.0.
+
+## Privacy
+
+Board identifiers and installation progress stay in browser storage. Downloaded reports include board MAC addresses and diagnostic output; share them only when intended. Starting a new board clears the previous board's progress and log. The installer does not upload device reports.
 
 ## Repository contents
 
